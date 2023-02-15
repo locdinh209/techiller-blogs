@@ -29,7 +29,7 @@ Mục tiêu của các ứng dụng AI là mô phỏng lại các khả năng c�
 * **Acting Rationally**: hành đông hợp lý là ứng dụng xe tự lái, hệ thống cảnh báo đeo khẩu trang hay không đeo trong mùa Covid-19. Đây là nhóm mà ứng dụng phổ biến nhất hiện nay. Thực vậy, muốn máy móc (hoặc máy tính) hành động hợp lý, ra quyết định (decision making) hợp lý dựa trên sự hướng dẫn của con người (các SME (Subject-matter expert) - những chuyên gia trong một lĩnh vực cụ thể nào đó).
     
 
-Có một đoạn trích dẫn mà mình rất thích khi nói về Trí tuệ nhân tạo: *"****Trí tuệ nhân tạo không chú trọng con người có thể làm được những gì, mà là làm thế nào để chỉ dẫn cho máy làm được những gì con người có thể làm. Nói cách khác, vấn đề là làm thế nào để giải thuật hóa những lời giải, hay sự thông minh, của con người"*** *.* Hay nói cách khác: **Trí tuệ nhân tạo = Thông minh + Giải thuật**.
+Có một đoạn trích dẫn mà mình rất thích khi nói về Trí tuệ nhân tạo: "***Trí tuệ nhân tạo không chú trọng con người có thể làm được những gì, mà là làm thế nào để chỉ dẫn cho máy làm được những gì con người có thể làm. Nói cách khác, vấn đề là làm thế nào để giải thuật hóa những lời giải, hay sự thông minh, của con người "*** *.* Hay nói cách khác: **Trí tuệ nhân tạo = Thông minh + Giải thuật**.
 
 # 4 điều ĐÚNG về AI
 
